@@ -1,0 +1,23 @@
+<svg version="1.1" viewBox="0 0 150 150" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <radialGradient id="radialGradient5190" cx="74.734" cy="327.65" r="69.42" gradientTransform="matrix(1 0 0 .96935 -.39361 11.915)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#ff0" offset="0"/>
+   <stop style="stop-color:#ff0;stop-opacity:0" offset="1"/>
+  </radialGradient>
+ </defs>
+ <g transform="translate(0 -257.31)">
+  <path d="m25.959 304.15 82.373 81.859 0.0927-15.277-67.04-66.898z" style="fill:#808080;stroke-opacity:0"/>
+  <path d="m123.73 304.06-82.373 81.859-0.0927-15.277 67.04-66.898z" style="fill:#808080;stroke-opacity:0"/>
+  <path d="m123.73 304.06-82.373 81.859-0.0927-15.277 67.04-66.898z" style="fill:#808080;stroke-opacity:0"/>
+  <path d="m123.53 360.44-77.123-76.642-0.08679 14.304 62.768 62.635z" style="fill:#808080;stroke-opacity:0"/>
+  <path d="m26.534 360.51 76.697-76.218 0.0863 14.224-62.42 62.288z" style="fill:#808080;stroke-opacity:0"/>
+  <path d="m40.742 304.29-14.665-0.04455-20.501 20.535-0.11229 14.865z" style="fill:#808080"/>
+  <path d="m144.21 324.95 0.0446 14.665-20.535 20.501-14.865 0.11229z" style="fill:#808080"/>
+  <path d="m103.14 297.85 0.0446-14.665-20.535-20.501-14.865-0.11229z" style="fill:#808080"/>
+  <path d="m143.99 338.92 0.0446-14.665-20.535-20.501-14.865-0.11229z" style="fill:#808080"/>
+  <path d="m5.6678 325.17-0.0446 14.665 20.535 20.501 14.865 0.11229z" style="fill:#808080"/>
+  <path d="m82.037 262.34-14.881-0.0453-20.802 20.837-0.11394 15.083z" style="fill:#808080"/>
+  <path d="m108.11 385.87-0.22369-10.641-65.109 0.14617-1.6644 10.362z" style="fill:#808080"/>
+  <ellipse cx="74.34" cy="329.53" rx="69.42" ry="67.292" style="fill:url(#radialGradient5190)"/>
+ </g>
+</svg>
